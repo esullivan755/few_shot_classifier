@@ -1,0 +1,9 @@
+torch
+numpy
+transformers
+peft
+bitsandbytes
+accelerate
+tqdm
+scikit-learn
+pandas

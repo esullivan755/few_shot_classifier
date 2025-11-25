@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/few_rel/__init__.py
+src/few_rel/few_rel_data_loading.py
+src/few_rel/metalearner.py
+src/few_rel/utils.py
+src/few_shot_classifier.egg-info/PKG-INFO
+src/few_shot_classifier.egg-info/SOURCES.txt
+src/few_shot_classifier.egg-info/dependency_links.txt
+src/few_shot_classifier.egg-info/requires.txt
+src/few_shot_classifier.egg-info/top_level.txt

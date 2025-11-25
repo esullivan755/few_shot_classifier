@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: few_shot_classifier
+Version: 0.1.0
+Summary: Few-shot relation classification and meta-learning experiments
+Author-email: Eric Sullivan <eb.navillus@gmail.com>
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: torch
+Requires-Dist: numpy
+Requires-Dist: transformers
+Requires-Dist: peft
+Requires-Dist: bitsandbytes
+Requires-Dist: accelerate
+Requires-Dist: tqdm
+Requires-Dist: scikit-learn
+Requires-Dist: pandas
